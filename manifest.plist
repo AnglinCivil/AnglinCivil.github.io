@@ -17,7 +17,7 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.anglincivil.anglincivilemployeeappenterprise</string>
+               <string>com.anglincivil.anglincivilemployeeappenterprise.iosFix</string>
                <key>bundle-version</key>
                <string>1.4</string>
                <key>kind</key>
