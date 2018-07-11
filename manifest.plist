@@ -17,13 +17,13 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.anglincivil.anglincivilemployeeappenterprise.iosFix</string>
+               <string>com.anglincivil.anglincivilemployeeappenterprise</string>
                <key>bundle-version</key>
                <string>1.4</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>AnglinCivilApp</string>
+               <string>Anglin Civil Employee App</string>
            </dict>
        </dict>
    </array>
